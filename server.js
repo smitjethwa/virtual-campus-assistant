@@ -6,7 +6,7 @@ var app = express();
 
 app.use(bodyParser.json());
 
-mongoose.connect('mongodb+srv://smit:admin@locations-ibwpx.mongodb.net/places?retryWrites=true', { useNewUrlParser: true }, function(err){
+mongoose.connect('mongodb+srv://[username]:[password]@locations-ibwpx.mongodb.net/places?retryWrites=true', { useNewUrlParser: true }, function(err){
     if(err){
         console.log('Not connected to the database');
     }else{
