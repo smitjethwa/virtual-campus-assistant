@@ -3,11 +3,9 @@
 ## Install npm 
 > https://www.npmjs.com/get-npm
 
-## Install ngrok through npm
-> https://www.npmjs.com/package/ngrok 
+## Install [ngrok](https://www.npmjs.com/package/ngrok) through npm
 > npm install ngrok -g
 
-## Install nodemon through npm
-> * [nodemon](https://www.npmjs.com/package/nodemon) 
-> * npm install -g nodemon 
+## Install [nodemon](https://www.npmjs.com/package/nodemon) through npm 
+> npm install -g nodemon 
 
