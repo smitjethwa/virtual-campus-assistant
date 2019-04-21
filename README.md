@@ -8,6 +8,6 @@
 > npm install ngrok -g
 
 ## Install nodemon through npm
-> https://www.npmjs.com/package/nodemon 
-> npm install -g nodemon 
+> * [nodemon](https://www.npmjs.com/package/nodemon) 
+> * npm install -g nodemon 
 
