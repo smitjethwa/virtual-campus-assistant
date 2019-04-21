@@ -1,18 +1,19 @@
 # virtual-campus-assistant
 
-### Navigate to project directory 
+## 1. Navigate to project directory 
 
-## Install npm 
+## 2. Install npm 
 > https://www.npmjs.com/get-npm
 
-## Install [ngrok](https://www.npmjs.com/package/ngrok) through npm
+## 3. Install [ngrok](https://www.npmjs.com/package/ngrok) through npm
 > npm install ngrok -g
 
-## Install [nodemon](https://www.npmjs.com/package/nodemon) through npm 
+## 4. Install [nodemon](https://www.npmjs.com/package/nodemon) through npm 
 > npm install -g nodemon 
 
-## Start server
+## 5. Start server
 > ngrok http 8081
+> copy https path and open in Browser
 
-## Run js file
+## 6. Run js file
 > nodemon server.js
